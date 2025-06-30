@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(149, 250, 216);
+}
+
+h1 {
+    color: darkviolet;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul li{
+    margin: 30px;
+    font-size: 20px;
+}
+
+#movies {
+    border-radius: 40px;
+    margin-bottom: 40px;
+}
+
+table {
+    border-collapse: collapse;
+}
+th, td {
+    text-align: center;
+    border: 2px solid;
+    font-size: 20px;
+  }
+
+#japan {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+#france {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+#ireland {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+th {
+    background-color: rgb(25, 255, 178);
+}
+
+tr:nth-child(odd) {
+    background-color: aquamarine;
+}
+
+a:hover{
+    color: yellow;
+}
